@@ -1,0 +1,9 @@
+HI {!Customer.Name},
+
+New username, password fields are setup after first signup.
+
+Customer Name : {!Customer.Name}
+Customer Id : {!Customer.Id}
+
+Regards
+Genc
